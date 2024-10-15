@@ -1,5 +1,5 @@
 ## Welcome to Puzzak's repos!
-[![Profile](Assets/Profile.png)](https://github.com/Puzzak)![Header](Assets/MD3Card.png)
+[![Profile](https://raw.githubusercontent.com/Puzzaks/.github/refs/heads/master/Assets/Profile.png)](https://github.com/Puzzak)![Header](https://raw.githubusercontent.com/Puzzaks/.github/refs/heads/master/Assets/MD3Card.png)
 ### Released Play Store Apps
 [![Fractals](https://raw.githubusercontent.com/Puzzaks/.github/refs/heads/master/Assets/Project-Fractals.png)](https://github.com/Puzzak/Fractal-Viewer)[![MCPlayer](https://raw.githubusercontent.com/Puzzaks/.github/refs/heads/master/Assets/Project-MCPlayer.png)](https://github.com/Puzzak/MCPlayer)[![PTK](https://raw.githubusercontent.com/Puzzaks/.github/refs/heads/master/Assets/Project-PTK.png)](https://github.com/Puzzak/PTK)[![Conway's Game of Life](https://raw.githubusercontent.com/Puzzaks/.github/refs/heads/master/Assets/Project-GoL.png)](https://github.com/Puzzak/gol)[![TGCrawl](https://raw.githubusercontent.com/Puzzaks/.github/refs/heads/master/Assets/Project-TGCrawl.png)](https://github.com/Puzzak/TGCrawl)
 ### Other projects
